@@ -6,3 +6,4 @@ This line is to test conflict 2
 
 
 Some test modification 1 - Stashing
+Some test modification 2 - Stashing
