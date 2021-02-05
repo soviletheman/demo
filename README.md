@@ -1,8 +1,5 @@
-This
+This line is not to be edited
 
-Is
+This is line is to test conflict 1
 
-To Test
-
-
-Conflicts
+This line is to test conflict 2
